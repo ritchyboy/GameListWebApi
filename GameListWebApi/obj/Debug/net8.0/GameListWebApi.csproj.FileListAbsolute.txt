@@ -311,3 +311,4 @@ C:\Users\Ritch\source\repos\GameListWebApi\GameListWebApi\bin\Debug\net8.0\runti
 C:\Users\Ritch\source\repos\GameListWebApi\GameListWebApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Ritch\source\repos\GameListWebApi\GameListWebApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Ritch\source\repos\GameListWebApi\GameListWebApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Ritch\source\repos\GameListWebApi\GameListWebApi\obj\Debug\net8.0\GameListWebApi.sourcelink.json
